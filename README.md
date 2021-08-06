@@ -15,9 +15,27 @@
 
 ## Usage
 
+1. Clone the Git repository:
+
+  ```sh
+  git clone https://github.com/Gargantuan5k/Tictactoe-AI
+  ```
+2. CD into the src directory
+
 ```sh
-cd src; main.exe
+cd Tictactoe-AI/src
 ```
+
+3. Run the main.py file
+
+```sh
+python3 main.py
+```
+
+OR (Windows only)
+1. Download the main.exe file from assets
+2. Open the main.exe file
+
 
 ## Author
 
@@ -33,7 +51,9 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+* Give a ⭐️ if this project helped you!<br />
+* You can also give me a follow on my socials:
+<a href="https://www.instagram.com/siddharth._.vivek">Instagram</a> or join our <a href="https://discord.gg/TFB5TQBtSg">Discord server</a> :)
 
 ## 📝 License
 
