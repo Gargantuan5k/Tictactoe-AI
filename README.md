@@ -43,6 +43,7 @@ OR (Windows only)
 
 * Website: gargantuan5k.github.io/portfolio
 * Twitter: [@Gargantuan5k](https://twitter.com/Gargantuan5k)
+* Instagram: [@siddharth._.vivek](https://www.instagram.com/siddharth._.vivek)
 * Github: [@Gargantuan5k](https://github.com/Gargantuan5k)
 
 ## 🤝 Contributing
@@ -52,8 +53,8 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 * Give a ⭐️ if this project helped you!<br />
-* You can also give me a follow on my socials:
-<a href="https://www.instagram.com/siddharth._.vivek">Instagram</a> or join our <a href="https://discord.gg/TFB5TQBtSg">Discord server</a> :)
+* You can also give me a follow on my socials: <a href="https://www.instagram.com/siddharth._.vivek">Instagram</a> or <a href="https://twitter.com/Gargantuan5k">Twitter</a> <br />
+* You can also join our <a href="https://discord.gg/TFB5TQBtSg">Discord server</a> :)
 
 ## 📝 License
 
